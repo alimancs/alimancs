@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimancs" alt="alimancs" /></a> </p>
 
-- 🔭 I’m currently working on [Blog website](https://paperplane-blog.onrender.com)
+- 🔭 I’m currently working on a [Blog website](https://paperplane-blog.onrender.com)
 
 - 🌱 I’m currently learning **web development with MERN stack**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://paperplane-blog.onrender.com](https://paperplane-blog.onrender.com)
 
-- 💬 Ask me about **react, javascript, mongodb, express.js, python**
+- 💬 Ask me about **react.js, javascript, mongodb, express.js, python**
 
 - 📫 How to reach me **aliman2952003@outlook.com**
 
