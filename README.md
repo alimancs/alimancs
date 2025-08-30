@@ -33,7 +33,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="[https://tenor.com/view/work-computer-gif-9810614](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2Forigin%2F04%2F04d6ad311a095c2d34ae0a03cb909a98_w200.gif&tbnid=YupRxgQP8LLGkM&vet=10CAIQxiAoAGoXChMI-N2IpYuzjwMVAAAAAB0AAAAAEBE..i&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fdevelopers&docid=SyO87-DBj_uZ9M&w=200&h=133&itg=1&q=developer%20greetings%20gif&ved=0CAIQxiAoAGoXChMI-N2IpYuzjwMVAAAAAB0AAAAAEBE)" align="center" style="width: 100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN2azVjb3BnYXNoejlycXFudGxoaGhuN2szNDk0czUyanEzaHhmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
