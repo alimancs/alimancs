@@ -15,22 +15,17 @@
 ---
 
 ### 👨‍💻 About Me  
-I’m a **Frontend & Full-Stack Developer** passionate about crafting fast, elegant, and human-centered web experiences.  
-Currently building **Takada**, a SaaS platform helping Nigerian SMEs manage sales, inventory, and insights with ease.  
+I’m a **Software Engineer** passionate about crafting fast, elegant, and human-centered software. 
 
 🎓 *Computer Science student — class of 2027*  
-🧠 *Aspiring AI Engineer with a deep love for learning and problem-solving*  
+🧠 *Upcominng AI Engineer with a deep love for learning and problem-solving*  
 🌙 *Night mode enthusiast and creative thinker*  
 
-- 💬 Ask me about **React**, **Next.js**, **MongoDB**, **Python**, and **TypeScript**  
-- 🛠️ I enjoy designing clean UI and building products that make real-world impact  
 - ⚡ Motto: *Discipline and consistency over motivation*  
-
----
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,html,css,tailwind,mongodb,postgres,python,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,html,css,tailwind,mongodb,postgres,python,git,linux,ts" />
 </p>
 
 ---
