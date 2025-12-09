@@ -15,11 +15,10 @@
 ---
 
 ### 👨‍💻 About Me  
-I’m a **Software Engineer** passionate about crafting fast, elegant, and human-centered software. 
+I’m a **Software Engineer** passionate about crafting fast, efficient, and human-centered software. 
 
 🎓 *Computer Science student — class of 2027*  
 🧠 *Upcominng AI Engineer with a deep love for learning and problem-solving*  
-🌙 *Night mode enthusiast and creative thinker*  
 
 - ⚡ Motto: *Discipline and consistency over motivation*  
 
