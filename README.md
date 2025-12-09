@@ -49,12 +49,6 @@ I’m a **Software Engineer** passionate about crafting fast, efficient, and hum
 
 ---
 
-### 🌍 Beyond Code  
-When I’m not coding, I’m probably learning Spanish 🇪🇸, working out 💪, or documenting my daily challenges on Instagram.  
-I believe in consistency, curiosity, and creating tools that help people grow — just like I’m growing through code every day.  
-
----
-
 <p align="center">
   <i>Less noise. More code. Always evolving.</i>
 </p>
