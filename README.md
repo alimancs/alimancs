@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Alimam Ahmed</h1>
+<h1>Hey there 👋, I'm Alimam Ahmed</h1>
 
 <p align="center">
   <a href="https://github.com/alimancs" target="_blank">
@@ -16,9 +16,7 @@
 
 ### 👨‍💻 About Me  
 I’m a **Software Engineer** passionate about crafting fast, efficient, and human-centered software. 
-
-🎓 *Computer Science student — class of 2027*  
-🧠 *Upcominng AI Engineer with a deep love for learning and problem-solving*  
+AI Engineer with a deep love for learning and problem-solving
 
 - ⚡ Motto: *Discipline and consistency over motivation*  
 
