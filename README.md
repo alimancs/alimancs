@@ -15,10 +15,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,java,tailwind,mongodb,postgres,python,git,linux" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimancs&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimancs&layout=compact&hide_border=true&theme=github_dark" height="150" />
-</p>
