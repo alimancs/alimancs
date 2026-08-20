@@ -1,4 +1,4 @@
-<h1 align="center">Alimam Ahmed</h1>
+<h1 align="center">imam Ahmed</h1>
 
 <p align="center">
   Software Engineer · AI Enthusiast · <i>Discipline and consistency over motivation</i>
