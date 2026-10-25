@@ -1,8 +1,7 @@
 <h1 align="center">imam Ahmed</h1>
 
 <p align="center">
-  Fullstack Software Development and Product Design
-  I learn everything and anything. Master of non but better than a master of one.
+  Fullstack Software Development and Product Design.
 </p>
 
 <p align="center">
